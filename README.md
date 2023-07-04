@@ -1,5 +1,5 @@
 # 💫 About Me:
-Im currently studying Web Development at a higher technical school.<br>Im looking to collaborate with others developers<br>Im looking for team working
+Full Stack Developer
 
 
 
