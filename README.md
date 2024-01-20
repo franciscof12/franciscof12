@@ -1,6 +1,4 @@
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=franciscof12&show_icons=true&locale=en&layout=compact" alt="franciscof12" /></p>
 ![Francisco Ferreira Banner](https://github.com/franciscof12/franciscof12/assets/123760628/50bed047-ec0e-4a54-b1c4-8586fdd5fcd1)
-
 
 <img alt="Night Coding" src="./assets/Hand%20Wave.gif" width='40' align="left"/><h2>Hey there! I'm Francisco</h2>
 
