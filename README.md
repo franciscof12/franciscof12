@@ -4,7 +4,7 @@
 
 ### 👨🏻‍💻 &nbsp;About Me
 
-💡 &nbsp;I like to explore new technologies and develop software solutions and quick hacks.\
+💡 &nbsp;I like to explore new technologies and develop software solutions.\
 🌱 &nbsp;I'm on track for learning more about Backend development, Systems Design, and Cloud Architecture.\
 ✉️ &nbsp;You can shoot me an email at franciscoferrefc@gmail.com! I'll try to respond as soon as I can.\
 📄 &nbsp;Please have a look at my [resume](https://fferre.eu/) for more details about me. I'm open to feedback and suggestions!
@@ -20,16 +20,7 @@
 
 <p align="center">
 <a href="https://github.com/franciscof12">
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=franciscof12&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=franciscof12&layout=compact&langs_count=8&theme=algolia"/>
 </a>
 </p>
-
-### 🤝🏻 &nbsp;Connect with Me
-
-<p align="center">
-<a href="https://www.linkedin.com/in/franciscoferreiraa/"><img src="https://img.shields.io/badge/-Francisco%20Ferreira%20C-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
-<a href="mailto:franciscoferrefc@gmai.com"><img src="https://img.shields.io/badge/-franciscoferrefc@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
-</p>
-
 -----
